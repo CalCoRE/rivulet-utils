@@ -24,7 +24,7 @@ If you're an educator or designer who is comfortable with Python and wants to fi
 
 ## Acknowledgements
 
-Rivulet is partially supported by a grant by the National Science Foundation (Award #2445609). 
+Rivulet utils were originally developed as part of work a grant by the National Science Foundation (Award #2445609). 
 Notebook contributions by Michelle Wilkerson, Adelmo Eloy, Lucas Coletti, and Danny Zheng.
 
 ## Questions and Contributions
