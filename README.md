@@ -25,7 +25,7 @@ If you're an educator or designer who is comfortable with Python and wants to fi
 ## Acknowledgements
 
 Rivulet utils were originally developed as part of work a grant by the National Science Foundation (Award #2445609). 
-Notebook contributions by Michelle Wilkerson, Adelmo Eloy, Lucas Coletti, and Danny Zheng.
+Notebook contributions by Michelle Wilkerson, Adelmo Eloy, Danny Zheng, Lucas Coletti, and Kolby Caban.
 
 ## Questions and Contributions
 
