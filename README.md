@@ -15,7 +15,7 @@ Importantly, it does this in a way that guides users toward data that exhibit ke
 Along the way, the notebooks gently introduce general techniques and skills related to fetching data using APIs and Python. 
 
 The name *Rivulet*—a small stream—refers to the goal of curating manageable, dynamic samples from larger data streams. 
-It's also a nod to Tim Erickson's idea of being [Awash in Data](https://codap.xyz/awash/), and an acknowledgement that while there are some powerful [Oceans of Data](https://oceansofdata.org/) out there, finding one that's manageable, interesting, and ready to use can be difficult or even overwhelming.
+It's also a nod to Tim Erickson's idea of being [Awash in Data](https://codap.xyz/awash/), and an acknowledgement that while there are some powerful databases out there, finding data that's manageable, interesting, and ready to use can be difficult or even overwhelming.
 
 ## Target Audience
 
